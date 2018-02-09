@@ -1,4 +1,4 @@
-This is the very python script I wrote to scrap coinmarketcap pages to find the prices of coins.
+This is the very simple python script I wrote to scrap coinmarketcap pages to find the prices of coins.
 The Coin names are listed in one file and the ticker prices are listed in the other.
 
 HOW TO INTERPRET:
